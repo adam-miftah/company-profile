@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Cluster Mutiara",
+    "category": "Perumahan",
+    "city": "Jakarta",
+    "price": "Rp 850.000.000",
+    "cover": "/images/mutiara.jpg",
+    "description": "Cluster modern dengan fasilitas lengkap.",
+    "lat": -6.2,
+    "lng": 106.8
+  },
+  {
+    "id": 2,
+    "title": "Ruko Niaga",
+    "category": "Komersial",
+    "city": "Tangerang",
+    "price": "Rp 2.000.000.000",
+    "cover": "/images/ruko.jpg",
+    "description": "Ruko strategis di pusat kota.",
+    "lat": -6.3,
+    "lng": 106.7
+  }
+]
