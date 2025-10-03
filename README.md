@@ -26,7 +26,7 @@ Project ini dirancang untuk menampilkan profil perusahaan properti secara elegan
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/USERNAME/company-profile-properti.git
+git clone https://github.com/adam-miftah/company-profile-properti.git
 cd company-profile-properti
 ```
 ### 2. Install Dependencies
